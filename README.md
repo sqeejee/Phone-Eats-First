@@ -11,6 +11,10 @@ Picture this: It's saturday night and the whole squad is coming over for a great
 -Attached to the picture, they can leave a numerical and optional written review
 -After posting, the user has their review added to a map of all restaurants they've gone to!
 -The user's friends can see the map as well, and get insight into great (or bad) places near them!
+-Customized Dietary Preferences
+    - Allow users to set dietary preferences (e.g., vegetarian, vegan, gluten-free) in their profile.
+    Implement a filter option for users to find reviews and recommendations that match their dietary preferences.
+    Provide badges
 
 # Pages/Interactions:
   -Home page:
