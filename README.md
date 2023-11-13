@@ -54,3 +54,8 @@ Picture this: It's saturday night and the whole squad is coming over for a great
 Inclusivity Features:
 Open to all except those who were born on February 29th
 Can report reviews and especially photos 
+
+# Ideas
+-Add recipe to the food photo to encourage cooking to also be a part of the app
+-An Instagram highlights type of feature except for food
+
