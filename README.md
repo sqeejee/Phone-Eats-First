@@ -57,4 +57,4 @@ Picture this: It's saturday night and the whole squad is coming over for a great
 
 Inclusivity Features:
 Open to all except those who were born on February 29th
-Can report reviews and especially photos 
+Can report reviews and especially photos
